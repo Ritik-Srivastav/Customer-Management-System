@@ -17,7 +17,7 @@ a)Move to backend folder and run command npm install
 
 b)Create a .env file in backend folder with below variables and add your credentials.
 
-    PORT=5000
+    PORT="Your Server Port"
     
     MONGO_URI="Your url"
     
